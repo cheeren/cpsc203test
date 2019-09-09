@@ -71,6 +71,19 @@ Gradescope for very light autograding.
 
 ![overview](/assets/overview.jpg)
 
+## Reading
+
+We will be suggesting readings from two different interactive Python 
+texts. Both of them use *turtle graphics* as a sandbox for learning 
+how to think about the sequential execution of code. We will not
+use turtle graphics for any of our explorations, but you may enjoy
+learning about it. Here are the links to the texts:
+
+[How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
+
+[Foundations of Python Programming](https://runestone.academy/runestone/books/published/fopp/index.html)
+
+
 
 
 {% include base_path %}
