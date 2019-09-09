@@ -16,6 +16,8 @@ modified: 2016-04-18T16:39:37-04:00
 author_profile: false
 ---
 
+{% include base_path %}
+
 ## Logistics
 
 Main Classroom Meetings: Tue Thu, 11:00-12:30, DMP 301
@@ -69,7 +71,7 @@ Gradescope for very light autograding.
 
 ## Schedule
 
-![overview](/assets/overview.jpg)
+![overview]({{ base_path }}/assets/overview.jpg)
 
 ## Reading
 
@@ -86,4 +88,3 @@ learning about it. Here are the links to the texts:
 
 
 
-{% include base_path %}
