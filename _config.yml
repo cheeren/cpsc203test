@@ -12,7 +12,7 @@ title_separator: "-"
 excerpt_separator: <!--more-->
 name: &name "Cinda Heeren"
 description: &description " "
-url: https://cheeren.github.io/cpsc203test/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://cheeren.github.io/cpsc203test # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/cpsc203test" # the subpath of your site, e.g. "/blog"
 repository: "cheeren/cpsc203test"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
