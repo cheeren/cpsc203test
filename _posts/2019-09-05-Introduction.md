@@ -1,0 +1,24 @@
+---
+title: "Introduction"
+modified: 2019-09-11T16:03:49-04:00
+categories:
+  - classroom
+tags:
+  - classroom
+---
+
+{% include base_path %}
+
+Topics: 
+1. Introductions
+2. Elegance 
+3. Handcraft as an analogy for software design
+4. Introduction to problem complexity
+
+<!--more-->
+
+Slides: [Introduction]({{ base_path }}/assets/pdfs/0905intro.pdf)
+
+<object data="{{ base_path }}/assets/pdfs/0905intro.pdf" width="500" height="500" type='application/pdf'/>
+</object>
+
