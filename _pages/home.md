@@ -3,9 +3,9 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: mm-home-page-feature.jpg
+  overlay_image: trispiralsplash.jpg
   caption:
-excerpt: "Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search."
+excerpt: "This course consists of a sequence of six explorations, assembled to provide a tour through data structure applications and algorithmic design. Built around topics from arts, sciences, and technology the explorations are thought provoking and engaging. Students emerge from the course with increased proficiency in Python programming, and with a broad spectrum of tools for algorithmic problems solving."
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"

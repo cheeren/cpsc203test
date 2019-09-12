@@ -71,7 +71,7 @@ Gradescope for very light autograding.
 
 ## Schedule
 
-![overview]({{ base_path }}/assets/overview.jpg)
+![overview]({{ base_path }}/images/overview.jpg)
 
 ## Reading
 
