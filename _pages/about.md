@@ -47,11 +47,11 @@ The theme includes responsive layouts (`single`, `archive`, and `splash` pages) 
 | [Categories Archive][categories-archive]        | Posts grouped by category.                                    |
 | [Tags Archive][tags-archive]                    | Posts grouped by tags.                                        |
 
-For even more demo pages check the [posts archive][year-archive].
+For even more demo pages check the [posts archive][classroom].
 
 [categories-archive]: {{ base_path }}/categories/
 [tags-archive]: {{ base_path }}/tags/
-[year-archive]: {{ base_path }}/year-archive/
+[classroom]: {{ base_path }}/classroom/
 
 ---
 

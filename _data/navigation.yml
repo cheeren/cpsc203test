@@ -1,11 +1,10 @@
 # main links links
 main:
   - title: "Classroom"
-    url: /year-archive/
+    url: /classroom/
 
   - title: "Calendar"
     url: /calendar/
 
   - title: "Syllabus"
     url: /syllabus/
-
