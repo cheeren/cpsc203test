@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: untitleddrawing.png
+  overlay_image: Untitleddrawing.png
   caption:
 excerpt: "This course consists of a sequence of six explorations, assembled to provide a tour through data structure applications and algorithmic design. Built around topics from arts, sciences, and technology the explorations are thought provoking and engaging. Students emerge from the course with increased proficiency in Python programming, and with a broad spectrum of tools for algorithmic problems solving."
 # feature_row:
