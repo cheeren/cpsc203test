@@ -53,7 +53,7 @@ github:
 
 {% include feature_row id="feature_row2" %} -->
 
-<h1>{{ site.data.ui-text[site.locale].schedule | default: "CLASSROOM ACTIVITIES" }}</h1>
+<h1>{{ site.data.ui-text[site.locale].schedule | default: "COURSE ACTIVITIES" }}</h1>
 
 {% for post in site.posts %}
 {% include archive-single.html %}
