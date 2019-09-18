@@ -1,14 +1,14 @@
 ---
 layout: archive
-permalink: /classroom/
-title: "Classroom"
-modified: 2016-04-18T16:39:37-04:00
+permalink: /potd/
+title: "POTD"
+modified: 2019-09-17T16:39:37-04:00
 author_profile: false
 ---
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
-{% for post in site.categories.class %}
+{% for post in site.categories.potd %}
 {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
 {% if year != written_year %}
 <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>

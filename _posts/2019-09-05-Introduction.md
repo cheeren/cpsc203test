@@ -2,7 +2,7 @@
 title: "Introduction"
 modified: 2019-09-11T16:03:49-04:00
 categories:
-  - classroom
+  - class
 tags:
   - classroom
 excerpt_separator: <!--more-->

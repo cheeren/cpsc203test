@@ -1,7 +1,16 @@
 # main links links
 main:
+  - title: "POTD"
+    url: /potd/
+
   - title: "Classroom"
     url: /classroom/
+
+  - title: "Labs"
+    url: /labs/
+
+  - title: "Projects"
+    url: /projects/
 
   - title: "Calendar"
     url: /calendar/

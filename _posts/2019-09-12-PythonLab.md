@@ -2,7 +2,7 @@
 title: "Python Lab"
 modified: 2019-09-15T12:24:42-04:00
 categories:
-  - classes
+  - class
 tags:
   - classes
 excerpt_separator: <!--more-->
