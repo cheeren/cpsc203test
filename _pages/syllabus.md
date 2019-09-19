@@ -26,15 +26,12 @@ Lab Meetings: enroll in one of Mon, Tue, Thu
 
 ## Staff
 
-| Name: | Role: | Ofc Hr: | Location: |
-|----|----|----|----|
-| Cinda Heeren | Instructor | Tue 12:30-14:00 | ICCS 233 |
-| Sim Sanghera | TA | Tue 09:30-10:30 | ICCS X339 |
-| Sim Sanghera | TA | Wed 10:00-11:00 | ICCS X341 |
-| Lulu Aygun | TA | Thu 12:30-13:30 | ICCS X141 |
-| Lulu Aygun | TA | Tue 14:00-15:00 | ICCS X141 |
-| Raghav Aggarwal | UA | Fri 13:00-14:00 | DLC table 6 |
-| Raghav Aggarwal | UA | Wed 13:00-14:00 | DLC table 6 |
+| Name:           | Role:      | Ofc Hr:                              | Location:     |
+| --------------- | ---------- | ------------------------------------ | ------------- |
+| Cinda Heeren    | Instructor | Tue 12:30-14:00                      | ICCS 233      |
+| Sim Sanghera    | TA         | Tues 9:30-10:30 & Wed 10:00-11:00    | ICCS X341     |
+| Lulu Aygun      | TA         | Tues 14:00-15:00 & Thurs 12:30-13:30 | ICCSX141      |
+| Raghav Aggarwal | UA         | Wed 13:00-14:00 & Fri 13:00-14:00    | Demco Table 6 |
 
 
 ## Course Components
@@ -45,32 +42,32 @@ Student active engagement and ongoing feedback is welcomed and expected.
 
 ### Projects (4 x 7.5% = 30%):
 
-You will be asked to complete 4 increasingly complex programming 
-assignments over the course of the semester. Duration of these 
+You will be asked to complete 4 increasingly complex programming
+assignments over the course of the semester. Duration of these
 projects will be approximately 2 weeks.
 
 ### Lab Meetings (10%):
 
-This semester the lab meeting content will be shaped by the programming 
-projects. They will be a perfect opportunity for students to discuss 
-design ideas and directions with course staff, and to receive 
+This semester the lab meeting content will be shaped by the programming
+projects. They will be a perfect opportunity for students to discuss
+design ideas and directions with course staff, and to receive
 debugging assistance. Marking will be based on attendance.
 
 ### Exams (15% + 25%):
 
-There will be one midterm and one final exam in the course. Midterm 
-is scheduled for Oct 24, in class. The final exam is scheduled by 
+There will be one midterm and one final exam in the course. Midterm
+is scheduled for Oct 24, in class. The final exam is scheduled by
 the university. We expect to announce its details by Nov 1.
 
 ### Problems of the Day (50 x 0.30% = 15%):
 
-We believe that programming fluency comes with regular practice. 
+We believe that programming fluency comes with regular practice.
 To reinforce the concepts we introduce in the classroom, and to build
-fluency, we will be assigning short daily exercises for you to 
-complete. These exercises, referred to as POTD, will likely take 
+fluency, we will be assigning short daily exercises for you to
+complete. These exercises, referred to as POTD, will likely take
 around 15minutes. You will complete the POTD using an online tool
 called repl.it, and submit your response to another tool called
-Gradescope for very light autograding. 
+Gradescope for very light autograding.
 
 ## Schedule
 
@@ -78,8 +75,8 @@ Gradescope for very light autograding.
 
 ## Reading
 
-We will be suggesting readings from two different interactive Python 
-texts. Both of them use *turtle graphics* as a sandbox for learning 
+We will be suggesting readings from two different interactive Python
+texts. Both of them use _turtle graphics_ as a sandbox for learning
 how to think about the sequential execution of code. We will not
 use turtle graphics for any of our explorations, but you may enjoy
 learning about it. Here are the links to the texts:
@@ -87,7 +84,3 @@ learning about it. Here are the links to the texts:
 [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 
 [Foundations of Python Programming](https://runestone.academy/runestone/books/published/fopp/index.html)
-
-
-
-
