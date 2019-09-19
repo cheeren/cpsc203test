@@ -15,5 +15,8 @@ main:
   - title: "Calendar"
     url: /calendar/
 
+  - title: "Environment"
+    url: /environment/
+
   - title: "Syllabus"
     url: /syllabus/
