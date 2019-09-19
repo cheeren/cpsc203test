@@ -29,9 +29,12 @@ Lab Meetings: enroll in one of Mon, Tue, Thu
 | Name: | Role: | Ofc Hr: | Location: |
 |----|----|----|----|
 | Cinda Heeren | Instructor | Tue 12:30-14:00 | ICCS 233 |
-| Sim Sanghera | TA | | |
-| Lulu Aygun | TA | | |
-| Raghav Aggarwal | UA | | |
+| Sim Sanghera | TA | Tue 09:30-10:30 | ICCS X339 |
+| Sim Sanghera | TA | Wed 10:00-11:00 | ICCS X341 |
+| Lulu Aygun | TA | Thu 12:30-13:30 | ICCS X141 |
+| Lulu Aygun | TA | Tue 14:00-15:00 | ICCS X141 |
+| Raghav Aggarwal | UA | Fri 13:00-14:00 | DLC table 6 |
+| Raghav Aggarwal | UA | Wed 13:00-14:00 | DLC table 6 |
 
 
 ## Course Components
