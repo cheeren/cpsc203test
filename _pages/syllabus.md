@@ -30,7 +30,7 @@ Lab Meetings: enroll in one of Mon, Tue, Thu
 | --------------- | ---------- | ------------------------------------ | ------------- |
 | Cinda Heeren    | Instructor | Tue 12:30-14:00                      | ICCS 233      |
 | Sim Sanghera    | TA         | Tues 9:30-10:30 & Wed 10:00-11:00    | ICCS X341     |
-| Lulu Aygun      | TA         | Tues 14:00-15:00 & Thurs 12:30-13:30 | ICCSX141      |
+| Lulu Aygun      | TA         | Tues 14:00-15:00 & Thurs 12:30-13:30 | ICCS X141      |
 | Raghav Aggarwal | UA         | Wed 13:00-14:00 & Fri 13:00-14:00    | Demco Table 6 |
 
 
