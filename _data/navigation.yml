@@ -15,8 +15,11 @@ main:
   - title: "Calendar"
     url: /calendar/
 
-  - title: "Environment"
-    url: /environment/
+  - title: "Ask questions here"
+    url: https://piazza.com/class/k05u1pdsrwn121
 
   - title: "Syllabus"
     url: /syllabus/
+
+  - title: "Environment"
+    url: /environment/
