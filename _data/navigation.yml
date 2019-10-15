@@ -12,6 +12,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Exams"
+    url: /exams/
+
   - title: "Calendar"
     url: /calendar/
 
