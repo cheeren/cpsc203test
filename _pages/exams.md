@@ -56,6 +56,10 @@ BFS:
   - debug implementation	
   - application
 
+Theory:
+  - problem size
+  - computational work
+
 Data Structures: List, Dictionary, Queue, Deque
 
 All lectures, labs, POTD, and projects through Friday, October 18, 
