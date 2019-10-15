@@ -8,7 +8,7 @@ author_profile: false
 
 {% include base_path %}
 
-# Midterm Exam Details
+# Exam Details
 
 Our first and only midterm exam will occur October 24, 2019, at 11a in DMP301.
 
