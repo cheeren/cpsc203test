@@ -35,6 +35,8 @@ Classes:
   - member variables - default values	
   - member functions - defining/using	
 
+Color representation (rgb)
+
 Web Scraping:
   - fill in blank	
   - data assembly	
