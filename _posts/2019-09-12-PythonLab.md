@@ -19,7 +19,7 @@ footer: true
 Slides: [Introduction]({{ base_path }}/assets/pdfs/0912pythonlab.pdf)
 
 {::nomarkdown}
-<object data="{{ base_path }}/assets/pdfs/0912pythonlab.pdf" width="500" height="500" type='application/pdf'/>
+<object data="{{ base_path }}/assets/pdfs/0912pythonlab-ann.pdf" width="500" height="500" type='application/pdf'/>
 </object>
 {:/}
 

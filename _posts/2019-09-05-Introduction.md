@@ -20,6 +20,6 @@ excerpt_separator: <!--more-->
 Slides: [Introduction]({{ base_path }}/assets/pdfs/0905intro.pdf)
 
 {::nomarkdown}
-<object data="{{ base_path }}/assets/pdfs/0905intro.pdf" width="500" height="500" type='application/pdf' vspace = "25"/></object>
+<object data="{{ base_path }}/assets/pdfs/0905intro-ann.pdf" width="500" height="500" type='application/pdf' vspace = "25"/></object>
 {:/}
 

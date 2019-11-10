@@ -22,7 +22,7 @@ Slides: [Blank]({{ base_path }}/assets/pdfs/1031StateSpace.pdf)
 Given code for class: [Repo](https://github.students.cs.ubc.ca/cpsc203-2019w-t1/LecSS)
 
 {::nomarkdown}
-<object data="{{ base_path }}/assets/pdfs/1031StateSpace.pdf" width="500" height="500" type='application/pdf'/>
+<object data="{{ base_path }}/assets/pdfs/1031StateSpace-ann.pdf" width="500" height="500" type='application/pdf'/>
 </object>
 {:/}
 

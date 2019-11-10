@@ -21,7 +21,7 @@ Great resource on the Python `@dataclass` decorator: [https://realpython.com/pyt
 Slides: [Introduction]({{ base_path }}/assets/pdfs/0917memberfunctions.pdf)
 
 {::nomarkdown}
-<object data="{{ base_path }}/assets/pdfs/0917memberfunctions.pdf" width="500" height="500" type='application/pdf'/>
+<object data="{{ base_path }}/assets/pdfs/0917memberfunctions-ann.pdf" width="500" height="500" type='application/pdf'/>
 </object>
 {:/}
 

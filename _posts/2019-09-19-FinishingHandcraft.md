@@ -19,7 +19,7 @@ footer: true
 Slides: [Blank]({{ base_path }}/assets/pdfs/0919finishingHandcraft.pdf)
 
 {::nomarkdown}
-<object data="{{ base_path }}/assets/pdfs/0919finishingHandcraft.pdf" width="500" height="500" type='application/pdf'/>
+<object data="{{ base_path }}/assets/pdfs/0919finishingHandcraft-ann.pdf" width="500" height="500" type='application/pdf'/>
 </object>
 {:/}
 
