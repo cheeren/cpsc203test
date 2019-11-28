@@ -7,19 +7,10 @@
             "id": "Dursley"
         },
         {
-            "id": "Harry"
-        },
-        {
             "id": "Mr."
         },
         {
-            "id": "Potter"
-        },
-        {
             "id": "Mr. Dursley"
-        },
-        {
-            "id": "Dudley"
         },
         {
             "id": "Dumbledore"
@@ -28,10 +19,10 @@
             "id": "Professor McGonagall"
         },
         {
-            "id": "Harry Potter"
+            "id": "Hagrid"
         },
         {
-            "id": "Hagrid"
+            "id": "Dudley"
         },
         {
             "id": "Uncle"
@@ -52,58 +43,19 @@
             "id": "Petunia"
         },
         {
-            "id": "Christmas"
-        },
-        {
-            "id": "Hogwarts"
-        },
-        {
-            "id": "Mr. Potter"
-        },
-        {
-            "id": "Gringotts"
-        },
-        {
-            "id": "Professor Quirrell"
-        },
-        {
-            "id": "Griphook"
-        },
-        {
-            "id": "Madam"
-        },
-        {
-            "id": "Quidditch"
-        },
-        {
-            "id": "Slytherin"
-        },
-        {
-            "id": "Mr. Ollivander"
-        },
-        {
-            "id": "Hedwig"
-        },
-        {
-            "id": "Percy"
-        },
-        {
-            "id": "George"
+            "id": "Fred"
         },
         {
             "id": "Ron"
         },
         {
-            "id": "Fred"
+            "id": "Harry Potter"
         },
         {
-            "id": "Mom"
+            "id": "George"
         },
         {
             "id": "George Weasley"
-        },
-        {
-            "id": "Lee Jordan"
         },
         {
             "id": "Charlie"
@@ -115,9 +67,6 @@
             "id": "Hermione"
         },
         {
-            "id": "Hermione Granger"
-        },
-        {
             "id": "Crabbe"
         },
         {
@@ -127,7 +76,16 @@
             "id": "Malfoy"
         },
         {
+            "id": "Potter"
+        },
+        {
             "id": "Neville"
+        },
+        {
+            "id": "Slytherin"
+        },
+        {
+            "id": "Filch"
         },
         {
             "id": "Quirrell"
@@ -136,51 +94,25 @@
             "id": "Snape"
         },
         {
-            "id": "Madam Hooch"
-        },
-        {
-            "id": "Filch"
-        },
-        {
-            "id": "Flitwick"
-        },
-        {
             "id": "Fang"
         },
         {
-            "id": "Wood"
-        },
-        {
-            "id": "Weasley"
+            "id": "Quidditch"
         },
         {
             "id": "Madam Pomfrey"
         },
         {
-            "id": "Miss Granger"
+            "id": "Weasley"
         },
         {
-            "id": "Gryffindor"
-        },
-        {
-            "id": "Fluffy"
+            "id": "Christmas"
         },
         {
             "id": "Flamel"
-        },
-        {
-            "id": "Firenze"
-        },
-        {
-            "id": "Voldemort"
         }
     ],
     "links": [
-        {
-            "weight": 7,
-            "source": "Dursley",
-            "target": "Harry"
-        },
         {
             "weight": 9,
             "source": "Dursley",
@@ -190,321 +122,6 @@
             "weight": 7,
             "source": "Dursley",
             "target": "Mr. Dursley"
-        },
-        {
-            "weight": 7,
-            "source": "Harry",
-            "target": "Mr."
-        },
-        {
-            "weight": 28,
-            "source": "Harry",
-            "target": "Potter"
-        },
-        {
-            "weight": 53,
-            "source": "Harry",
-            "target": "Dudley"
-        },
-        {
-            "weight": 17,
-            "source": "Harry",
-            "target": "Harry Potter"
-        },
-        {
-            "weight": 26,
-            "source": "Harry",
-            "target": "Professor McGonagall"
-        },
-        {
-            "weight": 37,
-            "source": "Harry",
-            "target": "Dumbledore"
-        },
-        {
-            "weight": 118,
-            "source": "Harry",
-            "target": "Hagrid"
-        },
-        {
-            "weight": 22,
-            "source": "Harry",
-            "target": "Uncle"
-        },
-        {
-            "weight": 22,
-            "source": "Harry",
-            "target": "Vernon"
-        },
-        {
-            "weight": 10,
-            "source": "Harry",
-            "target": "Aunt"
-        },
-        {
-            "weight": 46,
-            "source": "Harry",
-            "target": "Uncle Vernon"
-        },
-        {
-            "weight": 27,
-            "source": "Harry",
-            "target": "Aunt Petunia"
-        },
-        {
-            "weight": 6,
-            "source": "Harry",
-            "target": "Petunia"
-        },
-        {
-            "weight": 8,
-            "source": "Harry",
-            "target": "Christmas"
-        },
-        {
-            "weight": 6,
-            "source": "Harry",
-            "target": "Hogwarts"
-        },
-        {
-            "weight": 7,
-            "source": "Harry",
-            "target": "Mr. Potter"
-        },
-        {
-            "weight": 7,
-            "source": "Harry",
-            "target": "Gringotts"
-        },
-        {
-            "weight": 6,
-            "source": "Harry",
-            "target": "Professor Quirrell"
-        },
-        {
-            "weight": 6,
-            "source": "Harry",
-            "target": "Griphook"
-        },
-        {
-            "weight": 8,
-            "source": "Harry",
-            "target": "Madam"
-        },
-        {
-            "weight": 12,
-            "source": "Harry",
-            "target": "Quidditch"
-        },
-        {
-            "weight": 17,
-            "source": "Harry",
-            "target": "Slytherin"
-        },
-        {
-            "weight": 6,
-            "source": "Harry",
-            "target": "Mr. Ollivander"
-        },
-        {
-            "weight": 8,
-            "source": "Harry",
-            "target": "Hedwig"
-        },
-        {
-            "weight": 16,
-            "source": "Harry",
-            "target": "Percy"
-        },
-        {
-            "weight": 16,
-            "source": "Harry",
-            "target": "George"
-        },
-        {
-            "weight": 205,
-            "source": "Harry",
-            "target": "Ron"
-        },
-        {
-            "weight": 16,
-            "source": "Harry",
-            "target": "Fred"
-        },
-        {
-            "weight": 6,
-            "source": "Harry",
-            "target": "Mom"
-        },
-        {
-            "weight": 6,
-            "source": "Harry",
-            "target": "George Weasley"
-        },
-        {
-            "weight": 7,
-            "source": "Harry",
-            "target": "Lee Jordan"
-        },
-        {
-            "weight": 12,
-            "source": "Harry",
-            "target": "Charlie"
-        },
-        {
-            "weight": 8,
-            "source": "Harry",
-            "target": "Nicolas Flamel"
-        },
-        {
-            "weight": 136,
-            "source": "Harry",
-            "target": "Hermione"
-        },
-        {
-            "weight": 8,
-            "source": "Harry",
-            "target": "Hermione Granger"
-        },
-        {
-            "weight": 9,
-            "source": "Harry",
-            "target": "Crabbe"
-        },
-        {
-            "weight": 17,
-            "source": "Harry",
-            "target": "Goyle"
-        },
-        {
-            "weight": 30,
-            "source": "Harry",
-            "target": "Malfoy"
-        },
-        {
-            "weight": 40,
-            "source": "Harry",
-            "target": "Neville"
-        },
-        {
-            "weight": 27,
-            "source": "Harry",
-            "target": "Quirrell"
-        },
-        {
-            "weight": 72,
-            "source": "Harry",
-            "target": "Snape"
-        },
-        {
-            "weight": 6,
-            "source": "Harry",
-            "target": "Madam Hooch"
-        },
-        {
-            "weight": 22,
-            "source": "Harry",
-            "target": "Filch"
-        },
-        {
-            "weight": 6,
-            "source": "Harry",
-            "target": "Flitwick"
-        },
-        {
-            "weight": 11,
-            "source": "Harry",
-            "target": "Fang"
-        },
-        {
-            "weight": 20,
-            "source": "Harry",
-            "target": "Wood"
-        },
-        {
-            "weight": 8,
-            "source": "Harry",
-            "target": "Weasley"
-        },
-        {
-            "weight": 7,
-            "source": "Harry",
-            "target": "Madam Pomfrey"
-        },
-        {
-            "weight": 6,
-            "source": "Harry",
-            "target": "Miss Granger"
-        },
-        {
-            "weight": 9,
-            "source": "Harry",
-            "target": "Gryffindor"
-        },
-        {
-            "weight": 6,
-            "source": "Harry",
-            "target": "Fluffy"
-        },
-        {
-            "weight": 10,
-            "source": "Harry",
-            "target": "Flamel"
-        },
-        {
-            "weight": 7,
-            "source": "Harry",
-            "target": "Firenze"
-        },
-        {
-            "weight": 12,
-            "source": "Harry",
-            "target": "Voldemort"
-        },
-        {
-            "weight": 7,
-            "source": "Potter",
-            "target": "Malfoy"
-        },
-        {
-            "weight": 11,
-            "source": "Potter",
-            "target": "Ron"
-        },
-        {
-            "weight": 8,
-            "source": "Potter",
-            "target": "Hermione"
-        },
-        {
-            "weight": 9,
-            "source": "Potter",
-            "target": "Snape"
-        },
-        {
-            "weight": 16,
-            "source": "Dudley",
-            "target": "Uncle"
-        },
-        {
-            "weight": 16,
-            "source": "Dudley",
-            "target": "Vernon"
-        },
-        {
-            "weight": 27,
-            "source": "Dudley",
-            "target": "Uncle Vernon"
-        },
-        {
-            "weight": 21,
-            "source": "Dudley",
-            "target": "Aunt Petunia"
-        },
-        {
-            "weight": 9,
-            "source": "Dudley",
-            "target": "Hagrid"
         },
         {
             "weight": 9,
@@ -552,11 +169,6 @@
             "target": "Hermione"
         },
         {
-            "weight": 7,
-            "source": "Harry Potter",
-            "target": "Ron"
-        },
-        {
             "weight": 12,
             "source": "Hagrid",
             "target": "Uncle Vernon"
@@ -565,6 +177,11 @@
             "weight": 6,
             "source": "Hagrid",
             "target": "Aunt Petunia"
+        },
+        {
+            "weight": 9,
+            "source": "Hagrid",
+            "target": "Dudley"
         },
         {
             "weight": 37,
@@ -595,6 +212,26 @@
             "weight": 9,
             "source": "Hagrid",
             "target": "Malfoy"
+        },
+        {
+            "weight": 16,
+            "source": "Dudley",
+            "target": "Uncle"
+        },
+        {
+            "weight": 16,
+            "source": "Dudley",
+            "target": "Vernon"
+        },
+        {
+            "weight": 27,
+            "source": "Dudley",
+            "target": "Uncle Vernon"
+        },
+        {
+            "weight": 21,
+            "source": "Dudley",
+            "target": "Aunt Petunia"
         },
         {
             "weight": 22,
@@ -637,44 +274,24 @@
             "target": "Aunt Petunia"
         },
         {
-            "weight": 6,
-            "source": "Christmas",
-            "target": "Ron"
-        },
-        {
-            "weight": 6,
-            "source": "Quidditch",
-            "target": "Neville"
-        },
-        {
-            "weight": 9,
-            "source": "Quidditch",
-            "target": "Ron"
-        },
-        {
-            "weight": 6,
-            "source": "Quidditch",
-            "target": "Hermione"
-        },
-        {
-            "weight": 9,
-            "source": "Slytherin",
-            "target": "Ron"
-        },
-        {
-            "weight": 9,
-            "source": "George",
+            "weight": 10,
+            "source": "Fred",
             "target": "Ron"
         },
         {
             "weight": 8,
-            "source": "George",
-            "target": "Fred"
+            "source": "Fred",
+            "target": "George"
         },
         {
-            "weight": 10,
+            "weight": 7,
             "source": "Ron",
-            "target": "Fred"
+            "target": "Harry Potter"
+        },
+        {
+            "weight": 9,
+            "source": "Ron",
+            "target": "George"
         },
         {
             "weight": 6,
@@ -712,9 +329,19 @@
             "target": "Malfoy"
         },
         {
+            "weight": 11,
+            "source": "Ron",
+            "target": "Potter"
+        },
+        {
             "weight": 26,
             "source": "Ron",
             "target": "Neville"
+        },
+        {
+            "weight": 9,
+            "source": "Ron",
+            "target": "Slytherin"
         },
         {
             "weight": 13,
@@ -732,6 +359,11 @@
             "target": "Snape"
         },
         {
+            "weight": 9,
+            "source": "Ron",
+            "target": "Quidditch"
+        },
+        {
             "weight": 6,
             "source": "Ron",
             "target": "Madam Pomfrey"
@@ -740,6 +372,11 @@
             "weight": 7,
             "source": "Ron",
             "target": "Weasley"
+        },
+        {
+            "weight": 6,
+            "source": "Ron",
+            "target": "Christmas"
         },
         {
             "weight": 8,
@@ -772,6 +409,16 @@
             "target": "Goyle"
         },
         {
+            "weight": 8,
+            "source": "Hermione",
+            "target": "Potter"
+        },
+        {
+            "weight": 6,
+            "source": "Hermione",
+            "target": "Quidditch"
+        },
+        {
             "weight": 7,
             "source": "Hermione",
             "target": "Filch"
@@ -797,9 +444,24 @@
             "target": "Snape"
         },
         {
+            "weight": 7,
+            "source": "Malfoy",
+            "target": "Potter"
+        },
+        {
             "weight": 10,
             "source": "Malfoy",
             "target": "Neville"
+        },
+        {
+            "weight": 9,
+            "source": "Potter",
+            "target": "Snape"
+        },
+        {
+            "weight": 6,
+            "source": "Neville",
+            "target": "Quidditch"
         },
         {
             "weight": 10,
