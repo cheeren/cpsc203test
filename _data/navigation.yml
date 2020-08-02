@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "POTD"
-    url: /potd/
-
   - title: "Classroom"
     url: /classroom/
+
+  - title: "POTD"
+    url: /potd/
 
   - title: "Labs"
     url: /labs/
@@ -15,14 +15,14 @@ main:
   - title: "Exams"
     url: /exams/
 
+  - title: "Syllabus"
+    url: /syllabus/
+
   - title: "Calendar"
     url: /calendar/
 
   - title: "Ask questions here"
     url: https://piazza.com/class/k05u1pdsrwn121
-
-  - title: "Syllabus"
-    url: /syllabus/
 
   - title: "Environment"
     url: /environment/
