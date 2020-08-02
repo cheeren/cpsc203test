@@ -6,8 +6,6 @@ modified: 2016-04-18T16:39:37-04:00
 author_profile: false
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
 <table>
     <thead>
         <tr>
@@ -24,5 +22,8 @@ author_profile: false
 {% endif %}
 {% include archive-table.html %}
 {% endfor %}
-    </tbody
+    </tbody>
 </table>
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
